@@ -1,0 +1,5 @@
+-please extract the rar file 
+the rar file is written in react so pleas take the time to install the the packges needed and the prerequisites for it .
+
+
+DONE FOR THE SOLANA HACKATHON - OSTIM TEKNIK UNIVERISTY 
