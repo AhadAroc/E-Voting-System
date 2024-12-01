@@ -1,5 +1,5 @@
 -please extract the rar file 
 the rar file is written in react so pleas take the time to install the the packges needed and the prerequisites for it .
-
+- the full rar version includes full on files that has been used with the project and some files in it can be skipped or even deleted ( it was am early version ) 
 
 DONE FOR THE SOLANA HACKATHON - OSTIM TEKNIK UNIVERISTY 
